@@ -1,0 +1,6 @@
+create database lab;
+
+use lab;
+
+
+create table details(train_no varchar(5),source varchar(20),destination varchar(20));
